@@ -1,0 +1,1 @@
+C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -g -Wl,--enable-auto-import CMakeFiles/lcof.dir/main.cpp.o -o lcof.exe -Wl,--out-implib,liblcof.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
